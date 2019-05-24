@@ -10,7 +10,7 @@ import {startTabs} from '../MainTabs/startMainTabs'
 import DefaultInput from '../../components/UI/DefaultInput/DefaultInput'
 import HeadingText from '../../components/UI/HeadingText/HeadingText'
 import MainText from '../../components/UI/MainText/MainText'
-import imageBackground from '../../assets/iron-man2.png'
+import imageBackground from '../../assets/white-cat.jpg'
 import ButtonWithBackground from '../../components/UI/ButtonWithBackground/ButtonWithBackground'
 
 
